@@ -24,6 +24,10 @@ The Stacks project has a chapter about Picard schemes for nonsingular projective
 This can be done in the setting of algebraic stacks (work of Daniel Halpern-Leistner) but the Stacks project first needs to add the classical version.
 
 
+# Weil restriction.
+Although the basics are developed from scratch in the awesome book “Neron Models”, there are a number of properties that book does not address, such as behavior for ample line bundles, geometrically connected fibers, behavior for torsors under various kinds of groups, etc.
+
+
 # Picard stacks
 The Stacks project contains algebraicity of the stack of coherent sheaves on a finitely presented algebraic space over a base, see [tag 08WB](http://stacks.math.columbia.edu/tag/08WB). This can be used to prove the algebraicity of many stacks: Quot, Hilb, Pic.
 
