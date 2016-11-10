@@ -1,5 +1,5 @@
-# Dimension theory of algebraic stacks: work on things like
-Irreducible components of algebraic stacks, checking that dimension theory works out, etc. A tiny bit of material can be found in [tag 0AFL](http://stacks.math.columbia.edu/tag/0AFL) which was contributed by Burt Totaro.
+# Dimension theory of algebraic stacks
+The idea would be to work on irreducible components of algebraic stacks, checking that dimension theory works out, etc. A tiny bit of material can be found in [tag 0AFL](http://stacks.math.columbia.edu/tag/0AFL) which was contributed by Burt Totaro.
 
 
 # Coarse moduli spaces for (not necessarily DM) algebraic stacks
@@ -42,4 +42,4 @@ The Stacks project contains Artin's theorem on dilatations, see [tag 0AR1](http:
 
 
 # Artin's axioms in examples
-Finding (counter)examples illustrating Artin's axioms and their sharpness, based on Artin's ``Implicit function theorem'' and Emerton--Gee's [``Scheme-theoretic images'' of morphisms of stacks](https://arxiv.org/abs/1506.06146).
+Finding (counter)examples illustrating Artin's axioms and their sharpness, based on Artin's "Implicit function theorem" and Emerton--Gee's ["Scheme-theoretic images" of morphisms of stacks](https://arxiv.org/abs/1506.06146).
